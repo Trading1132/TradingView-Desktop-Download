@@ -22,4 +22,3 @@ TradingView Desktop Optimizer is a tool designed to help you maximize the perfor
 ```html
 <meta name="description" content="TradingView Desktop Optimizer – Enhance your trading experience with improved performance and resource management for TradingView Desktop.">
 <meta name="keywords" content="TradingView Desktop, trading platform, performance optimization, resource management, trading analysis, desktop application, optimization tool">
-<meta name="author" content="Your Name or Brand">
